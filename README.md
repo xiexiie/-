@@ -35,7 +35,6 @@
 ## 数据集，本例程使用的有COCO2017数据集和Pascal VOC2012数据集
 ### COCO2017数据集
 * COCO官网地址：https://cocodataset.org/
-* 对数据集不了解的可以看下我写的博文：https://blog.csdn.net/qq_37541097/article/details/113247318
 * 这里以下载coco2017数据集为例，主要下载三个文件：
     * `2017 Train images [118K/18GB]`：训练过程中使用到的所有图像文件
     * `2017 Val images [5K/1GB]`：验证过程中使用到的所有图像文件
@@ -56,7 +55,6 @@
 
 ### Pascal VOC2012数据集
 * 数据集下载地址： http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit
-* 对数据集不了解的可以看下我写的博文：https://blog.csdn.net/qq_37541097/article/details/115787033
 * 解压后得到的文件夹结构如下：
 ```
 VOCdevkit
